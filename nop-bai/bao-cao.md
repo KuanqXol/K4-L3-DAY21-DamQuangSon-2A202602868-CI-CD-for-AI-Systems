@@ -3,9 +3,9 @@
 | | |
 |---|---|
 | Họ và tên | Đàm Quang Sơn |
-| MSSV | 2A2002602868 |
+| MSSV | 2A202602868 |
 | Lớp / Khóa | K4 |
-| Repo GitHub | https://github.com/KuanqXol/K4-L3-DAY21-DamQuangSon-2A2002602868-CI-CD-for-AI-Systems |
+| Repo GitHub | https://github.com/KuanqXol/K4-L3-DAY21-DamQuangSon-2A202602868-CI-CD-for-AI-Systems |
 | Ngày nộp | 07/10/2026 |
 
 ---
