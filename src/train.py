@@ -11,6 +11,7 @@ from sklearn.metrics import accuracy_score, f1_score
 # Nguong chat luong cua lab nay la f1_score, KHONG phai accuracy.
 # Ly do: bo du lieu Adult co ty le lop 75/25. Mot mo hinh doan bua
 # "thu nhap thap" cho moi mau da dat accuracy 0.75 ma khong hoc duoc gi.
+# Pipeline Step 2 trigger
 F1_THRESHOLD = 0.65
 
 
